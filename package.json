@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "dependencies": {
     "@astrojs/cloudflare": "11.2.0",
-    "@astrojs/react": "4.0.0",
+    "@astrojs/react": "4.1.1",
     "@astrojs/solid-js": "4.4.4",
-    "astro": "4.16.17",
+    "astro": "4.16.18",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "solid-js": "1.9.3"
